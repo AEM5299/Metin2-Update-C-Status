@@ -9,7 +9,7 @@
 | PART | VIDEO                                       | CODES                                                                           |
 |------|:--------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------:|
 | 1    | [![Watch the video](https://img.youtube.com/vi/1XgaCOmdU6I/maxresdefault.jpg)](https://www.youtube.com/watch?v=1XgaCOmdU6I) | https://github.com/blackdragonx61/Metin2-Update-C-Status/blob/master/PART-1.cpp |
-| 2    | [![Watch the video](https://img.youtube.com/vi/1XgaCOmdU6I/maxresdefault.jpg)](https://www.youtube.com/watch?v=1XgaCOmdU6I) | https://github.com/blackdragonx61/Metin2-Update-C-Status/blob/master/PART-2.cpp |
+| 2    | [![Watch the video](https://img.youtube.com/vi/ntNmG5m4GG4/maxresdefault.jpg)](https://www.youtube.com/watch?v=ntNmG5m4GG4&feature=youtu.be) | https://github.com/blackdragonx61/Metin2-Update-C-Status/blob/master/PART-2.cpp |
 
 
 | BSD |                                       LINK                                       | ARCHIVE PW | LOGIN | PW    |
