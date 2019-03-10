@@ -15,4 +15,4 @@
 | BSD | LINK                                                                             | Archive PW | Root PW |
 |-----|----------------------------------------------------------------------------------|----------|---------|
 | 9.2 | https://drive.google.com/uc?id=1888Ybi5hq9HBroaoiinz_AQtxzRp0hJT&export=download | black    | dev     |
-| 12  | https://drive.google.com/uc?id=1888Ybi5hq9HBroaoiinz_AQtxzRp0hJT&export=download | black    | black   |
+| 12  | https://drive.google.com/uc?id=1TNk5Is3Oa7PmQkFnQ55j3z6pEdA9d5Hr&export=download | black    | black   |
