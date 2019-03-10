@@ -57,6 +57,8 @@ mesa-libs-18.1.9_4 >
 mpc-1.1.0_2 >
 mpfr-4.0.1_2 >
 mysql55-client-5.5.62_1 >
+mysql55-server-5.5.62_1 >
+gdb-8.2.1
 nvidia-texture-tools-2.0.8.1_11 >
 openexr-2.3.0_1 >
 openssl-1.0.2p_1,1 =
