@@ -1,5 +1,3 @@
-blackdragonx61 clang-8 tutorial codes:
-
 2:
 	#undef __FreeBSD__
 
