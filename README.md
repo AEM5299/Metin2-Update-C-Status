@@ -1,10 +1,10 @@
 # Metin2-Update-C-Status
 **Created by: blackdragonx61**
 
-| Compiler     | Date       | BSD | Status | Desc            |
-|--------------|------------|-----|--------|-----------------|
-| GCC-7(devel) | 18.02.2019 | 9.2 | C++17  | Make Part-1     |
-| CLANG-8      | 10.03.2019 | 12  | C++2a  | Make Part-(1&2) |
+| Compiler | Date       | BSD | Status | Desc            | Packages                                                                           |
+|----------|------------|-----|--------|-----------------|------------------------------------------------------------------------------------|
+| GCC-7    | 18.02.2019 | 9.2 | C++17  | Make Part-1     | https://github.com/blackdragonx61/Metin2-Update-C-Status/blob/master/Packages(9.2) |
+| CLANG-8  | 10.03.2019 | 12  | C++2a  | Make Part-(1&2) | https://github.com/blackdragonx61/Metin2-Update-C-Status/blob/master/Packages(12)  |
 
 | BSD | LINK                                                                             | Archive PW | Root PW |
 |-----|----------------------------------------------------------------------------------|----------|---------|
