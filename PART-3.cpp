@@ -27,3 +27,22 @@ questlua_pc.cpp and char_item.cpp
 	
 ///Change all
 	std::vector <LPITEM> item_gets;
+	
+utils.cpp
+//Find
+	if (NULL == w[1])
+		
+///Change
+	if (!w[1])
+		
+//Find
+	if (NULL == *s)
+		
+///Change
+	if (!*s)
+		
+//Find
+	if (NULL == *w)
+		
+///Change
+	if (!*w)
