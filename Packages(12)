@@ -1,81 +1,84 @@
-aalib-1.4.r5_13 >
-apr-1.6.5.1.6.1_1 >
-binutils-2.30_7,1 >
-boost-all-1.69.0 >
-boost-docs-1.69.0 >
-boost-jam-1.69.0 >
-boost-libs-1.69.0 >
-clang-devel-8.d20181024 >
-cryptopp-7.0.0 =
-db5-5.3.28_7 =
-devil-1.7.8_23,1 =
-dialog4ports-0.1.6 =
-expat-2.2.6_1 =
-freeglut-3.0.0_2 >
-gcc9-devel-9.0.0.s20181223 >
-gdbm-1.18.1 >
-gettext-runtime-0.19.8.1_2 >
-gmake-4.2.1_3 >
-gmp-6.1.2_1 >
-googletest-1.8.1_1 >
-icu-63.1_1,1 >
-ilmbase-2.3.0_1 >
-indexinfo-0.3.1 =
-jasper-1.900.1_17 =
-jbigkit-2.1_1 =
-jpeg-turbo-2.0.1 >
-lcms-1.19_6,1 =
-libGLU-9.0.0_3 =
-libICE-1.0.9_3,1 =
-libX11-1.6.7,1 >
-libXau-1.0.8_5 =
-libXdamage-1.1.4_5 =
-libXdmcp-1.1.2_2 =
-libXext-1.3.3_3,1 =
-libXfixes-5.0.3_2 =
-libXi-1.7.9_2,1 =
-libXrandr-1.5.1_2 =
-libXrender-0.9.10_2 =
-libXxf86vm-1.1.4_3 =
-libdrm-2.4.96,1 >
-libedit-3.1.20170329_2,1 =
-libepoll-shim-0.0.20181229 >
-libffi-3.2.1_3 >
-libiconv-1.14_11 =
-liblz4-1.8.3,1 =
-libmng-1.0.10_3 =
-libpciaccess-0.13.5 =
-libpthread-stubs-0.4 =
-libunwind-20170615 =
-libxcb-1.13.1 =
-libxml2-2.9.7 =
-libxshmfence-1.2_4 =
-llvm-devel-8.0.d20181024_1 >
-lzo2-2.10_1 =
-makedepend-1.0.5_2,1 =
-mesa-libs-18.1.9_4 >
-mpc-1.1.0_2 >
-mpfr-4.0.1_2 >
-mysql55-client-5.5.62_1 >
-mysql55-server-5.5.62_1 >
-gdb-8.2.1
-nvidia-texture-tools-2.0.8.1_11 >
-openexr-2.3.0_1 >
-openssl-1.0.2p_1,1 =
-pciids-20181113 >
-perl5-5.28.1 >
-pkg-1.10.5_5 =
-png-1.6.36 >
-python-2.7_3,2 =
-python2-2_3 =
-python27-2.7.15 =
-readline-7.0.5 >
-sdl-1.2.15_13,2 >
-serf-1.3.9_3 =
-sqlite3-3.26.0 >
-subversion-1.11.0_1 >
-tiff-4.0.10 >
-unixODBC-2.3.7 =
-utf8proc-2.1.0 =
-wayland-1.16.0 >
-xorgproto-2018.4 =
+aalib-1.4.r5_13                ASCII art library
+apr-1.6.5.1.6.1_1              Apache Portability Library
+binutils-2.30_7,1              GNU binary tools
+boost-all-1.70.0               The "meta-port" for boost libraries
+boost-docs-1.70.0              Documentation for libraries from boost.org
+boost-jam-1.70.0               Build tool from the boost.org
+boost-libs-1.70.0_2            Free portable C++ libraries (without Boost.Python)
+compat10x-i386-10.4.1004000.20181014 Convenience package to install the compat10x libraries
+cryptopp-7.0.0                 Free C++ class library of Cryptographic Primitives
+db5-5.3.28_7                   Oracle Berkeley DB, revision 5.3
+devil-1.7.8_23,1               Full featured cross-platform image library
+dialog4ports-0.1.6             Console Interface to configure ports
+expat-2.2.6_1                  XML 1.0 parser written in C
+freeglut-3.0.0_2               open source implementation of the GLUT library
+gcc9-devel-9.1.1.s20190629     GNU Compiler Collection 9
+gdb-8.2                        GNU GDB of newer version than comes with the system
+gdbm-1.18.1                    GNU database manager
+gettext-runtime-0.19.8.1_2     GNU gettext runtime libraries and programs
+gmake-4.2.1_3                  GNU version of 'make' utility
+gmp-6.1.2_1                    Free library for arbitrary precision arithmetic
+googletest-1.8.1_1             Framework for writing C++ tests on a variety of platforms
+icu-64.2,1                     International Components for Unicode (from IBM)
+ilmbase-2.3.0_1                ILM Base libraries a.k.a. Half, IlmThread, Imath, and Iex
+indexinfo-0.3.1                Utility to regenerate the GNU info page index
+jasper-1.900.1_17              Implementation of the codec specified in the JPEG-2000 standard
+jbigkit-2.1_1                  Lossless compression for bi-level images such as scanned pages, faxes
+jpeg-turbo-2.0.1               SIMD-accelerated JPEG codec which replaces libjpeg
+lcms-1.19_6,1                  Light Color Management System -- a color management library
+libGLU-9.0.0_3                 OpenGL utility library
+libICE-1.0.9_3,1               Inter Client Exchange library for X11
+libX11-1.6.7,1                 X11 library
+libXau-1.0.8_5                 Authentication Protocol library for X11
+libXdamage-1.1.4_5             X Damage extension library
+libXdmcp-1.1.2_2               X Display Manager Control Protocol library
+libXext-1.3.3_3,1              X11 Extension library
+libXfixes-5.0.3_2              X Fixes extension library
+libXi-1.7.9_2,1                X Input extension library
+libXrandr-1.5.1_2              X Resize and Rotate extension library
+libXrender-0.9.10_2            X Render extension library
+libXxf86vm-1.1.4_3             X Vidmode Extension
+libdrm-2.4.96,1                Userspace interface to kernel Direct Rendering Module services
+libedit-3.1.20170329_2,1       Command line editor library
+libepoll-shim-0.0.20181229     epoll shim implemented using kevent
+libffi-3.2.1_3                 Foreign Function Interface
+libiconv-1.14_11               Character set conversion library
+liblz4-1.8.3,1                 LZ4 compression library, lossless and very fast
+libmng-1.0.10_3                Multiple-image Network Graphics (MNG) reference library
+libpciaccess-0.13.5            Generic PCI access library
+libpthread-stubs-0.4           This library provides weak aliases for pthread functions
+libunwind-20170615             Generic stack unwinding library
+libxcb-1.13.1                  The X protocol C-language Binding (XCB) library
+libxml2-2.9.7                  XML parser library for GNOME
+libxshmfence-1.2_4             Shared memory 'SyncFence' synchronization primitive
+llvm-devel-9.0.d20190701       LLVM and Clang
+lzo2-2.10_1                    Portable speedy, lossless data compression library
+makedepend-1.0.5_2,1           Dependency generator for makefiles
+mesa-libs-18.1.9_4             OpenGL libraries that support GLX and EGL clients
+mpc-1.1.0_2                    Library of complex numbers with arbitrarily high precision
+mpfr-4.0.1_2                   Library for multiple-precision floating-point computations
+mysql55-client-5.5.62_1        Multithreaded SQL database (client)
+mysql55-server-5.5.62_1        Multithreaded SQL database (server)
+nvidia-texture-tools-2.0.8.1_11 Texture Tools with support for DirectX 10 texture formats
+openexr-2.3.0_1                High dynamic-range (HDR) image file format
+openssl-1.0.2p_1,1             SSL and crypto library
+pciids-20181113                Database of all known IDs used in PCI devices
+perl5-5.28.1                   Practical Extraction and Report Language
+pkg-1.11.1                     Package manager
+png-1.6.36                     Library for manipulating PNG images
+python-2.7_3,2                 "meta-port" for the default version of Python interpreter
+python2-2_3                    The "meta-port" for version 2 of the Python interpreter
+python27-2.7.15                Interpreted object-oriented programming language
+python36-3.6.9                 Interpreted object-oriented programming language
+readline-7.0.5                 Library for editing command lines as they are typed
+sdl-1.2.15_13,2                Cross-platform multimedia development API
+serf-1.3.9_3                   Serf HTTP client library
+source-highlight-3.1.8_6       C/C++ and Java sources to HTML converter
+sqlite3-3.26.0                 SQL database engine in a C library
+subversion-1.11.0_1            Version control system
+tiff-4.0.10                    Tools and library routines for working with TIFF images
+unixODBC-2.3.7                 ODBC library suite for Unix
+utf8proc-2.1.0                 UTF-8 processing library
+wayland-1.16.0                 Wayland composite "server"
+xorgproto-2018.4               xorg protocol headers
+z3-4.8.5                       Z3 Theorem Prover
