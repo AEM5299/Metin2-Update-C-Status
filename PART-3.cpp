@@ -15,8 +15,15 @@ char_skill.cpp
 	pkVictim->GetVID() : 0
 	
 config.cpp
-//find
+//Find
 	if (NULL != line[0])
 	
 ///Change all
 	if (line[0])
+
+questlua_pc.cpp and char_item.cpp
+//Find
+	std::vector <LPITEM> item_gets(NULL);
+	
+///Change all
+	std::vector <LPITEM> item_gets;
